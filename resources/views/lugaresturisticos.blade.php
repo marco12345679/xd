@@ -20,10 +20,6 @@
             }
         </style>
     </head>
-    <body bgcolor="blue">
+<h1>visite nuestros lugares turisticos</h1>
     </body>
-    <center><h1>el bosque de piedra</h1></center>
-    <center><img src="https://peru.info/Portals/0/Images/Productos/6/202-imagen-16224323122019.jpg"alt=""></center>
-    </body>
-    </html>
-
+</html>
